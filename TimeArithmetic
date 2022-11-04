@@ -1,0 +1,22 @@
+#using the class Time in time arithmetic
+
+from Timer import Time
+
+# time in normal format
+
+t=Time(20,56,25,6666666)
+
+# converting time to preffered format
+
+t.convert_to_preffered_format('to_day')
+t.convert_to_preffered_format('to_hr')
+t.convert_to_preffered_format('to_min')
+t.convert_to_preffered_format('to_sec')
+
+# substracting time b from already defined time
+
+t.time_to_substract(1,2,4,2000)
+
+# displaying time in seconds and days,hours,minutes, seconds format
+
+t.display_time()

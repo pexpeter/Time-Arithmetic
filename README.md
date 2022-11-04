@@ -1,13 +1,14 @@
-[Time Arithmetic](#time-arithmetic)
+[Time Arithmetic][def5]
+
 ## Time Arithmetic Project
 
-* [General Info](#general-info)
+* [General Info][def0]
 
-* [Technologies](#technologies)
+* [Technologies][def1]
 
-* [Inputs](#inputs)
+* [Inputs][def2]
 
-* [Sources](#sources)
+* [Sources][def3]
 
 ## General Info
 
@@ -36,3 +37,12 @@ The inputs/constraints are time in days, hour, minutes and seconds as arguments 
 The project is inspired by a user who submitted on a data analysts platform.
 
 ![The Assignment](source.jpeg)
+
+I am new to python programming and aspiring data scientist. Reach out to educate me more in loops to improve my code. Thanks.
+
+👌👌👌👌
+[def1]: #technologies
+[def2]: #inputs
+[def3]: #sources
+[def0]: #general-info
+[def5]: #time-arithmetic
