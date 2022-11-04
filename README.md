@@ -41,6 +41,7 @@ The project is inspired by a user who submitted on a data analysts platform.
 I am new to python programming and aspiring data scientist. Reach out to educate me more in loops to improve my code. Thanks.
 
 👌👌👌👌
+
 [def1]: #technologies
 [def2]: #inputs
 [def3]: #sources
