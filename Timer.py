@@ -4,8 +4,8 @@ class Time:
     
     Attributes:
         day(integer)      representing number of days.
-        hour(float)   representing number of hours.
-        minute(float) representing number of minutes.
+        hour(float)       representing number of hours.
+        minute(float)     representing number of minutes.
         second(integer)   representing number of seconds.
     """
     
