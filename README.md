@@ -17,7 +17,9 @@ This project involves my first oop simple python program that allows time to be 
 * seconds
 * minute or days
 * hours minutes and seconds.
+
 It can also:
+
 * convert the objects from one form to another.
 * substract time from one form to another.
 * print time in seconds or days, hours, mins and secs
